@@ -5,12 +5,12 @@ import numpy as np
 #import matplotlib.pyplot as plt
 
 
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 
-with st.sidebar:
-    selected = option_menu("Main Menu", ["MARCO TEORICO", 'LECTURA DE DATOS', 'MAPA DE CORRELACION', 'MAPA DE CALOR','PROPUESTA','VALIDACION','CORRELACION','MAXIMOS'], 
-        icons=['house', 'gear'], menu_icon="cast", default_index=1)
-    selected
+#with st.sidebar:
+    #selected = option_menu("Main Menu", ["MARCO TEORICO", 'LECTURA DE DATOS', 'MAPA DE CORRELACION', 'MAPA DE CALOR','PROPUESTA','VALIDACION','CORRELACION','MAXIMOS'], 
+        #icons=['house', 'gear'], menu_icon="cast", default_index=1)
+    #selected
     
 st.write("""PROYECTO FINAL""")
 st.write("""Universidad Nacional de San Agustín de Arequipa

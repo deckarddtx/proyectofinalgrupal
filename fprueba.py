@@ -268,21 +268,11 @@ image1 = Image.open('12353.png')
 
 st.image(image1, caption='Sunrise by the mountains')
 
-from PIL import Image
-image1 = Image.open('23333.png')
 
 
-st.write("""FORMULARIO IMAGENES""")
+st.write("""PREPROCESAMIENTO DE DATOS""")
 
-from PIL import Image
-image1 = Image.open('10000.png')
 
-st.image(image1, caption='Sunrise by the mountains')
-
-from PIL import Image
-image1 = Image.open('12353.png')
-
-st.image(image1, caption='Sunrise by the mountains')
 
 from PIL import Image
 image1 = Image.open('23333.png')

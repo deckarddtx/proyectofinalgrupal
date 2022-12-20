@@ -271,11 +271,7 @@ st.image(image1, caption='Sunrise by the mountains')
 from PIL import Image
 image1 = Image.open('23333.png')
 
-st.image(image1, caption='Sunrise by the mountains')
-from PIL import Image
-image1 = Image.open('gc2.png')
 
-st.image(image1, caption='Sunrise by the mountains')
 
 
 

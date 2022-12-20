@@ -255,12 +255,7 @@ HA ASH - PERDON
 JESSE Y JOY - CORRE
 REIK - CREO EN TI
 """)
-st.write("""ROSA PARA CUANDO TU RETO Y LA APUESTA QUE PERDISTE""")
 
-from PIL import Image
-image1 = Image.open('descarga.png')
-
-st.image(image1, caption='Sunrise by the mountains')
 
 st.write("""FORMULARIO IMAGENES""")
 
